@@ -1,0 +1,4 @@
+classifier,accuracy,precision,recall,TP,TN,FP,FN
+Logistic Regression,0.9927,0.9942,0.9967,1202,287,7,4
+GDA,0.9813,0.9789,0.9983,1204,268,26,2
+Linear SVM,0.9933,0.995,0.9967,1202,288,6,4
