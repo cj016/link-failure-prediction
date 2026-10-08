@@ -52,7 +52,6 @@ python src/generate_data.py
 python src/feature_engineering.py
 python src/main.py
 ```
-(use `python3` instead of `python` on Mac/Linux)
 
 The figures and result files are saved in the `results/` folder.
 
